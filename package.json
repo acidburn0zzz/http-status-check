@@ -23,11 +23,11 @@
   "devDependencies": {
     "bunyan": "1.8.12",
     "chai": "4.1.2",
-    "coveralls": "2.13.3",
+    "coveralls": "3.1.1",
     "eslint": "4.12.1",
     "eslint-config-guyellis": "0.0.6",
     "istanbul": "0.4.5",
-    "mocha": "4.0.1",
+    "mocha": "10.2.0",
     "npm-update-outdated": "0.1.6",
     "pre-commit": "1.2.2",
     "rewire": "3.0.2"
