@@ -15,7 +15,7 @@
     "debug": "3.1.0",
     "lodash": "4.17.4",
     "nodemailer": "4.4.0",
-    "request": "2.83.0",
+    "request": "2.88.2",
     "string": "3.3.3",
     "sugar": "2.0.4"
   },
@@ -24,7 +24,7 @@
     "bunyan": "1.8.12",
     "chai": "4.1.2",
     "coveralls": "2.13.3",
-    "eslint": "4.12.1",
+    "eslint": "10.0.1",
     "eslint-config-guyellis": "0.0.6",
     "istanbul": "0.4.5",
     "mocha": "4.0.1",
