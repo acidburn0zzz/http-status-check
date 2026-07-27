@@ -11,9 +11,9 @@
   },
   "concurrentRequests": 10,
   "dependencies": {
-    "async": "2.6.0",
+    "async": "2.6.4",
     "debug": "3.1.0",
-    "lodash": "4.17.4",
+    "lodash": "4.18.1",
     "nodemailer": "4.4.0",
     "request": "2.83.0",
     "string": "3.3.3",
@@ -23,14 +23,14 @@
   "devDependencies": {
     "bunyan": "1.8.12",
     "chai": "4.1.2",
-    "coveralls": "2.13.3",
-    "eslint": "4.12.1",
+    "coveralls": "3.1.1",
+    "eslint": "10.8.0",
     "eslint-config-guyellis": "0.0.6",
     "istanbul": "0.4.5",
-    "mocha": "4.0.1",
+    "mocha": "11.7.6",
     "npm-update-outdated": "0.1.6",
     "pre-commit": "1.2.2",
-    "rewire": "3.0.2"
+    "rewire": "9.0.1"
   },
   "engines": {
     "node": ">= 6.2"
